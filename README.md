@@ -1,2 +1,4 @@
-# sistema_de_facturaci-n-
+# sistema_de_facturacion-
 Trabajo Grupal
+# Integrantes
+Andrea Quispe
